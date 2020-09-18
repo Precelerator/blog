@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://precelerator.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://precelerator.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://precelerator.github.io/blog/empfohlene-ressourcen.html</loc>
+<lastmod>2020-09-18T13:37:07+02:00</lastmod>
+<image:image>
+<image:loc>https://precelerator.github.io/blog/media\posts\1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://precelerator.github.io/blog/media\posts\1/Screenshot-2020-09-18-122602.png</image:loc>
+<image:title><![CDATA[GitHub Student Developer Pack]]></image:title>
+</image:image>
+</url>
+</urlset>
