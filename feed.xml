@@ -20,7 +20,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-09-18T14:19:56+02:00</updated>
+        <updated>2020-09-21T11:26:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
@@ -31,14 +31,19 @@
             <![CDATA[
                     <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
                 <p><span style="font-weight: 400;">Spreadsheet-Software wie Excel und Google Sheets stellen in einer Vielzahl von Projekten essentielle Grundlage der Datenerfassung dar, ist jedoch häufig wenig übersichtlich und für mobile Nutzung oft unbrauchbar. Gleichzeitig stellen Spreadsheets jedoch die häufigste Datenquelle in allerlei vorstellbaren Projekten dar, was Quelle häufigen Ärgernisses ist.</span></p>
-<p><span style="font-weight: 400;">Genau diesen Anwendungsfall geht nun das amerikanische Startup </span><a href="https://www.glideapps.com/"><span style="font-weight: 400;">Glide </span></a><span style="font-weight: 400;">an und verspricht eine automatische Generierung von mobilfähigen Web-Apps aus Google Sheets heraus. Programmierkenntnisse sind keine nötig, alles was man braucht liefert Glide zusammenklickbar mit und stellt sogar eine umfangreiche </span><a href="https://www.glideapps.com/templates"><span style="font-weight: 400;">Template-Gallerie</span></a><span style="font-weight: 400;"> bereits, die Demo-Apps für verschiedene Use-Cases beinhaltet (z.B. eine Konferenz-Timetable, ein CRM oder einen Task-Tracker).</span></p>
-<p><span style="font-weight: 400;">Technische Umsetzung</span></p>
+<p><span style="font-weight: 400;">Genau diesen Anwendungsfall geht nun das amerikanische Startup </span><a href="https://www.glideapps.com/"><span style="font-weight: 400;">Glide</span></a> <span style="font-weight: 400;">an und verspricht eine automatische Generierung von mobilfähigen Web-Apps aus Google Sheets heraus. Programmierkenntnisse sind keine nötig, alles was man braucht liefert Glide zusammenklickbar mit und stellt sogar eine umfangreiche </span><a href="https://www.glideapps.com/templates"><span style="font-weight: 400;">Template-Gallerie</span></a><span style="font-weight: 400;"> bereits, die Demo-Apps für verschiedene Use-Cases beinhaltet (z.B. eine Konferenz-Timetable, ein CRM oder einen Task-Tracker).</span></p>
+<h4><span style="font-weight: 400;">Technische Umsetzung</span></h4>
 <p><span style="font-weight: 400;">Glide nutzt Google Sheets, um die Daten der App zu speichern, und generiert für den User eine sogenannte Progressive Web App, letztendlich nichts anderes als eine mobilfähige Webanwendung, die von Smartphone Nutzern auf dem Home Screen installiert werden kann. Dadurch erspart sich Glide den Umweg über die jeweiligen App Stores, stattdessen kann eine URL generiert werden, über die Nutzer die erstellte App nutzen bzw. installieren können. Durch die Verfügbarkeit über einen Weblink und die Ausführung im Browser laufen Glide-Apps automatisch auf jedmöglichen mobilen Geräten unabhängig vom Betriebssystem (egal ob Android, iOS, etc.) installiert werden. Nach Klick auf den jeweiligen Link erhält der Nutzer die Aufforderung, die App zum Home Screen seines Smartphones hinzuzzufügen. Der Clou: da es sich bei Progressive Web Apps um Webapplikationen handelt, kostet die App keinerlei Speicherplatz, da sie im Gegensatz zu nativen Apps direkt im Browser des Nutzers läuft.</span></p>
 <p><span style="font-weight: 400;">Über einen visuellen Editor können Glide-Nutzer das Look&amp;Feel der App anpassen, sodass Darstellung und Positionierung der Inhalte beliebig abgestimmt werden können. Daten können im zugehörigen Spreadsheet angepasst werden, sodass ein Hinzufügen, Bearbeiten und Löschen von Einträgen wie gewohnt innerhalb von Google Sheets vorgenommen werden kann.</span></p>
-<p><span style="font-weight: 400;">Pricing</span></p>
+<h4><span style="font-weight: 400;">Pricing</span></h4>
 <p><span style="font-weight: 400;">Glide bietet verschiedene </span><a href="https://www.glideapps.com/pricing"><span style="font-weight: 400;">Pricing-Plans</span></a><span style="font-weight: 400;">, der Personal Plan mit Glide-Logo und einigen Beschränkungen (&lt;500 Datensätze, &lt;1000 Edits pro Monat, &lt;100 MB Speicherplatz für Bilder etc.) wird kostenlos bereitgestellt. Professionelle Apps ohne Branding und mit zusätzlichen Features wie vorgeschaltete Authentifizierung, eine eignene Domain, bis zu 25000 Datensätze, 10 GB Speicher und eine unbegrenzte Anzahl an Edits liegt bei knapp 30€ im Monat.</span></p>
-<p><span style="font-weight: 400;">Fazit</span></p>
+<h4><span style="font-weight: 400;">Fazit</span></h4>
 <p><span style="font-weight: 400;">Insgesamt stellt Glide ein beeindruckendes Feature-Set für No-Code Apps bereit und ist durch die Datenspeicherung per Google Sheets und den visuellen App-Editor besonders für Benutzer geeignet, die keinerlei Programmiererfahrung besitzen. Durch die technische Umsetzung als Progressive Web App sind Glide-Apps kinderleicht teil- und installierbar, sodass schon mit wenigen Stunden Arbeit eine vorzeigbare Anwendung erstellt werden kann. Der kostenlose Plan eignet sich aufgrund des Glide-Brandings nur bedingt für professionellere Projekte, mit 30€ Monat ist das Pricing für Pro-Apps aber im Vergleich zur Eigenimplementierung oder Beauftragung einer App-Entwicklung jedoch äußerst gering. Glide positioniert sich dadurch prominent im Bereich simpler Listen-basierter Apps, bietet mit Features wie der Darstellung von Inhalten wie Bildern oder Maps aber auch Inhalte, die über reine Listen hinausgehen. Es hängt somit je nach Anwendungsfall abzuwägen, ob Glide für eine sinnvolle Wahl darstellt, es lohnt sich somit ein Blick in </span><a href="https://www.glideapps.com/templates"><span style="font-weight: 400;">Beispielanwendungen</span></a><span style="font-weight: 400;">, um die Features und Limitationen von Glide besser abschätzen zu können.</span></p>
+<hr>
+<h3>Call To Action</h3>
+<div>Du hast Interesse, dein eigenes Projekt hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>
+<div> </div>
+<div>Schreib uns eine Mail an <a href="mailto:precelerator@sce.de">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.</div>
             ]]>
         </content>
     </entry>
@@ -53,7 +58,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-09-18T14:19:56+02:00</updated>
+        <updated>2020-09-21T11:26:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/2/bubble.png" alt="" />
@@ -120,6 +125,11 @@
 <p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4W-LENVu8uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
 <h4>In-depth Guide zu Bubble</h4>
 <p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OKVj1A9OcY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<hr>
+<h3>Call To Action</h3>
+<div>Du hast Interesse, dein eigenes Projekt hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>
+<div> </div>
+<div>Schreib uns eine Mail an <a href="mailto:precelerator@sce.de">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.</div>
             ]]>
         </content>
     </entry>
@@ -134,7 +144,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2020-09-18T14:19:56+02:00</updated>
+        <updated>2020-09-21T11:26:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
