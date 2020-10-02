@@ -3,12 +3,170 @@
     <title>Precelerator Blog Drafts</title>
     <link href="https://precelerator.github.io/blog/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2020-10-02T15:56:35+02:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
     <id>https://precelerator.github.io/blog</id>
 
+    <entry>
+        <title>Precelerator goes digital: Launch und nächste Schritte</title>
+        <author>
+            <name>Fabio Maienschein</name>
+        </author>
+        <link href="https://precelerator.github.io/blog/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
+        <id>https://precelerator.github.io/blog/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
+
+        <updated>2020-10-02T15:56:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://precelerator.github.io/blog/media/posts/8/Screenshot-Website.png" alt="" />
+                    <p>Mit dem Launch der Homepage des Precelerators sowie dieses Blogs startet der Precelerator digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://precelerator.github.io/blog/media/posts/8/Screenshot-Website.png" alt="" />
+                <p>Mit dem Launch der Homepage des Precelerators sowie dieses Blogs startet der Precelerator digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
+
+<p>&lt;todo&gt; </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Website-Builder für Landing Pages</title>
+        <author>
+            <name>Fabio Maienschein</name>
+        </author>
+        <link href="https://precelerator.github.io/blog/tools-and-templates-fuer-landing-pages.html"/>
+        <id>https://precelerator.github.io/blog/tools-and-templates-fuer-landing-pages.html</id>
+            <category term="Tools"/>
+            <category term="No-Code"/>
+
+        <updated>2020-10-02T15:51:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://precelerator.github.io/blog/media/posts/7/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="" />
+                    <p>Keine Online-Marketing Kampagne kommt heutzutage ohne Landing Page aus. Insbesondere für kleinere Unternehmen stellt die eigenen Website das Zentrum der Online-Präsenz dar, oftmals fehlt es jedoch an Budget für eine professionelle Umsetzung. Glücklicherweise gibt es Ressourcen und Tools, die einem das Erstellen einer Landing Page für das eigene Projekt oder Start-Up wesentlich vereinfachen. Dieser Blog-Post sammelten die beliebtesten Website-Builder, mit denen du schnell und einfach deine eigene Landing Page launchen kannst.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://precelerator.github.io/blog/media/posts/7/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="" />
+                <p>Keine Online-Marketing Kampagne kommt heutzutage ohne Landing Page aus. Insbesondere für kleinere Unternehmen stellt die eigenen Website das Zentrum der Online-Präsenz dar, oftmals fehlt es jedoch an Budget für eine professionelle Umsetzung. Glücklicherweise gibt es Ressourcen und Tools, die einem das Erstellen einer Landing Page für das eigene Projekt oder Start-Up wesentlich vereinfachen. Dieser Blog-Post sammelten die beliebtesten Website-Builder, mit denen du schnell und einfach deine eigene Landing Page launchen kannst.</p>
+
+<h4>Drag&amp;Drop Website-Builder</h4>
+<p>Vollkommen ohne Code kommen moderne Website-Builder aus, mithilfe derer man auch ohne jegliche Programmierung per Drag&amp;Drop eigene Seiten zusammenklicken kann. Häufig bieten solche Tools vorgefertigte Templates, in die Benutzer eigene Inhalt einfügen können. Bekannte Player in diesem Markt sind Carrd, Wix, Weebly, GoDaddy, Squarespace und Webflow, von denen einige im folgenden kurz gegenübergestellt werden sollen:</p>
+<p><a href="https://carrd.co/" target="_blank" rel="noopener noreferrer">Carrd</a>: Carrd eignet sich insbesondere für One-Pager, also Landing Pages o.ä., die nicht allzu komplex sind. Carrd setzt keinerlei Programmierkenntnisse voraus und bietet eine Vielzahl von <a href="https://carrd.co/build" target="_blank" rel="noopener noreferrer">Templates</a>, die als Startpunkt dienen können. Carrd bietet einen Free-Plan sowie kostengünstigen Pro-Plan.</p>
+<p class="msg msg--success">Pro: faires Pricing, Free-Plan zum Ausprobieren, ausgereifte Templates</p>
+<p class="msg msg--warning">Cons: gedacht für One-Pager (keine Blogs o.ä.), begrenzte Anpassbarkeit</p>
+<p><a href="https://de.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>: Oft belächelt als "McDonalds der Websitebuilder" verspricht Wix die kinderleichte Erstellung der eigenen Website. Wix richtet sich primär an Leute ohne Programmiererfahrung und abstrahiert jegliche Implementierungsdetails durch den visuellen Editor weg, sodass per Drag&amp;Drop Builder Seiten zusammengeklickt werden können. Wie bei anderen Websitebuildern häufig der Fall, lassen sich Wix-Seiten nicht als Code exportieren, sodass Besitzer von Wix-Seiten eine Subscription-Gebühr an Wix entrichten müssen, um ihre Seite weiter bearbeiten zu können. Wix bietet zahlreiche Plugins, um Seiten um Features zu erweitern und bietet Templates sowie einen eigenen Logo-Maker.</p>
+<p class="msg msg--success">Pros: Simpler Editor, richtet sich an Leute ohne IT-Hintergrund, leichter Einstieg</p>
+<p class="msg msg--warning">Cons: Abhängigkeit von Wix, nach initialer Auswahl lässt sich nur schwer zwischen Templates wechseln, nicht immer mobilfähig, SEO durchwachsen</p>
+<p><a href="https://www.weebly.com/de" target="_blank" rel="noopener noreferrer">Weebly</a>/ <a href="https://de.godaddy.com/" target="_blank" rel="noopener noreferrer">GoDaddy</a>: vergleichbar zu Wix.</p>
+<p><a href="https://de.squarespace.com/" target="_blank" rel="noopener noreferrer">Squarespace</a>: Squarespace ist ein weiterer Player im Website-Builder Markt, der sich insbesondere durch seine professionellen <a href="https://de.squarespace.com/vorlagen" target="_blank" rel="noopener noreferrer">Templates </a>auszeichnet, die von Squarespace selbst designed werden und sich dadurch qualitativ von der Konkurrenz absetzen. Squarespace setzt auf minimalistischen, aber hochwertiges Design, jegliche Templates sind von Start an mobilfähig. Squarespace bietet ausführliche Guides und Ressourcen und bietet zusätzlich Live-Chat Support.</p>
+<p class="msg--success msg">Pros: Qualitativ hochwertige Templates, Code-Export, Template-Wechsel</p>
+<p class="msg msg--warning">Cons: kein Free-Plan, nur "Try out"-Phase, teurer als Konkurrenz, Templates lassen sich nicht beliebig anpassen</p>
+<p>Wordpress: Ursprünglich als Blogging-Plattform gestartet, betreibt Wordpress heute einen signifikanten Anteil aller Websites weltweit. Mit einer sehr bedienerfreundlichen Inhaltserstellung und einem umfangreichen Plugin-Systemen hat Wordpress eine geringe Einstiegsschwelle, aber trotzdem zahllose Anpassungsmöglichkeiten. Wordpress besitzt eine Vielzahl an vorgefertigten kostenlosen sowie bezahlpflichtigen Themes sowie denvon vielen geschätzte Page-Builder <a href="https://elementor.com/" target="_blank" rel="noopener noreferrer">Elementor</a>. Einziger Kritikpunkt sind Geschwindigkeit (abhängig von Hosting und Anzahl der Plugins oft träge) und Sicherheitslücken durch veraltete oder laienhaft umgesetzte Plugins.</p>
+<p class="msg--success msg">Pros: Weit verbreitet, große Community, viele mächtige Templates</p>
+<p class="msg msg--warning">Cons: z.T. langsam, Plugins müssen geupdated werden</p>
+<p><a href="https://webflow.com/" target="_blank" rel="noopener noreferrer">Webflow</a>: Betitelt sich selbst als "Design Tool of the future" und bietet dementsprechend enorm umfangreiche Konfigurations- und Designanpassungen. Ebenfalls ein browserbasierter Websitebuilder mit einer Vielzahl von Templates. Webflow eignet sich insbesondere für Leute, die bereits etwas Website-Erfahrung haben, da sich viele Konzepte aus der Programmierung von Websiten auch im visuellen Webflow-Editor wiederfinden. Webflow erlaubt den Export der erstellten Seite als Code und bietet zudem zahlreiche Lernressourcen zum Einstieg (Webflow <a href="https://webflow.com/community" target="_blank" rel="noopener noreferrer">Community</a>, Webflow <a href="https://university.webflow.com/" target="_blank" rel="noopener noreferrer">University</a>).</p>
+<p class="msg msg--success">Pros: Mächtiger Editor, der auch komplexere Designs ermöglicht, viele Templates</p>
+<p class="msg msg--warning">Cons: für simple Landing-Pages Overkill, entsprechend höheres Pricing</p>
+<hr>
+<p>Die Wahl des geeigneten Website-Builders hängt letztendlich von den eigenen Anforderungen ab, folgende Fragen sollte man für sich selbst beantworten:</p>
+<ul>
+<li>Welches Budget habe ich zur Verfügung?</li>
+<li>Wie viel Erfahrung habe ich mit der Umsetzung von Webseiten?</li>
+<li>Wie viel Wert lege ich auf vorgefertigte Templates?</li>
+<li>Will ich meine Seite ummodeln oder sogar umziehen können, oder schmeiße ich sie im Notfall weg und fange von vorne an</li>
+</ul>
+<div> </div>
+<div><hr></div>
+<div>Du hast Interesse, deine eigene Website hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>
+<div> </div>
+<div>Schreib uns eine Mail an <a href="mailto:precelerator@sce.de">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design-Tool Figma: Gemeinsam klickbare Prototypen erstellen</title>
+        <author>
+            <name>Fabio Maienschein</name>
+        </author>
+        <link href="https://precelerator.github.io/blog/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html"/>
+        <id>https://precelerator.github.io/blog/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html</id>
+            <category term="Tools"/>
+
+        <updated>2020-10-01T16:21:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://precelerator.github.io/blog/media/posts/4/Figma.png" alt="" />
+                    Traditionell existiert eine Lücke zwischen dem Design und Entwicklung von Anwendungen und Websites: während Designer häufig mit Bildbearbeitungssoftware wie Photoshop statische Layouts und Gestaltungsvorlagen bereitstellten, arbeiten Entwickler in der Regel mit klickbaren und interaktiven Prototypen. Um diese Lücke zu schließen, entstanden in den letzten Jahren&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://precelerator.github.io/blog/media/posts/4/Figma.png" alt="" />
+                <p>Traditionell existiert eine Lücke zwischen dem Design und Entwicklung von Anwendungen und Websites: während Designer häufig mit Bildbearbeitungssoftware wie Photoshop statische Layouts und Gestaltungsvorlagen bereitstellten, arbeiten Entwickler in der Regel mit klickbaren und interaktiven Prototypen.</p>
+<p>Um diese Lücke zu schließen, entstanden in den letzten Jahren eine Vielzahl fortschrittlicher Design-Tools, mit deren Hilfe der Design-Prozess interaktiver, kollaborativer und dem Entwicklungsprozess näher gestaltet werden kann. Platzhirsche in diesem Bereich sind <a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">Sketch</a> (OS X), <a href="https://www.adobe.com/de/products/xd.html" target="_blank" rel="noopener noreferrer">Adobe Xd</a> (MacOS/ Windows) und das Web-basierte Tool <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a>, das im folgenden näher vorgestellt wird.</p>
+<h4>Was ist Figma?</h4>
+<blockquote>
+<p>Figma helps teams create, test, and ship better designs from start to finish.</p>
+</blockquote>
+<p>Figma ist ein recht junges Unternehmen auf dem Markt für Design-Tools und verfolgt die Mission, Design neu zu durchdenken und für Designer sowie Developer zugänglicher zu machen. Durch die geringe Einstiegshürden (kostenlos für Privatnutzer, webbasiert, einfaches Erstellen und Teilen von Prototypen) eignet sich Figma für Projekte aller Art, bei der es um die Gestaltung digitaler Anwendungen geht (Apps, Webseiten, etc.). Figma macht klassische Mockup-/ Wireframetools überflüssig, da schnell realitätsnahe Oberflächen mit einem visuellen Editor erstellt werden können, die "echten" Anwendungen enorm ähnlichen sehen.</p>
+<p>Um einen ersten Eindruck des Ansatzes von Figma zu erhalten, lohnt sich ein Blick auf folgenden Teaser (1:35):</p>
+<figure class="post__video"><iframe loading="lazy" width="640" height="360" src="https://player.vimeo.com/video/365881491?color=5551ff" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></figure>
+<h4>Figma: Getting Started</h4>
+<p>Um mit Figma loslegen zu können, gehe auf <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">https://www.figma.com/</a> und erstelle dir deinen Account. Da Figma webbasiert ist, landest du direkt in der Anwendung, wo nach einigen Setup-Fragen eine kurze Einführung auf dich wartet:</p>
+<figure class="post__image"><img loading="lazy"  src="https://precelerator.github.io/blog/media/posts/4/Figma-Intro.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-xs.png 300w ,https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-sm.png 480w ,https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-md.png 768w ,https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-xl.png 1200w ,https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-xxl.png 1600w ,https://precelerator.github.io/blog/media/posts/4/responsive/Figma-Intro-xxxl.png 2560w"  alt="Figma Intro" width="554" height="322"></figure>
+<p>Wer lieber in der Desktop-App arbeitet, kann diese in der Web-App über das Menü -&gt; "Desktop App herunterladen" finden. Zur Inspiration lohnt es sich, die in der Desktop App im Menü im Reiter "Recent" zu findenden Beispielprojekte anzuschauen ("Prototyping in Figma", "Figma Basics", "Wireframing in Figma").</p>
+<h4>Features</h4>
+<p>Auch im Free Plan erlaubt es Figma, Projektmitglieder zu Projekten einzuladen und mit ihnen zusammenzuarbeiten. Ein zentrales Feature von Figma ist es, gemeinsam und unabhängig vom Betriebssystem zusammen an einem Design-Projekt zu arbeiten. So können alle Stakeholder das Projekt bearbeiten und kommentieren, um gemeinsam ein Design zu entwickeln.</p>
+<p>Erstellte Designs können als klickbarer Prototyp über das "Teilen" Feature anderen zur Verfügung gestellt werden und über einen teilbaren Link oder sogar mobil über die "Figma Mirror" App ausprobiert werden.</p>
+<h4>Tips &amp; Tricks</h4>
+<p>Design-Tools haben aufgrund ihrer vielfätigen Einsatzgebiete oft eine gewisse Lernkurve, die sich in Figma jedoch auf das Mindeste beschränkt. Folgende Tastenkombinationen und Tips zur Bedienung von Figma sind essentiell für den Einstieg:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Scrollen (Maus)</td>
+<td style="width: 50%;">Hoch- und Runterscrollen</td>
+</tr>
+<tr>
+<td style="width: 50%;">Strg + Scrollen (Maus)</td>
+<td style="width: 50%;">Rein- und Rauszoomen (zoomt in den Bereich, in sich der Mauszeiger befindet)</td>
+</tr>
+<tr>
+<td style="width: 50%;">Leertaste + Ziehen (Maus)</td>
+<td style="width: 50%;">Ansicht verschieben</td>
+</tr>
+<tr>
+<td style="width: 50%;">Shift + Klick (Maus)</td>
+<td style="width: 50%;">Mehrere Elemente markieren</td>
+</tr>
+<tr>
+<td style="width: 50%;">Shift + Ziehen (Maus)</td>
+<td style="width: 50%;">Größe eines Elements, ohne das Seitenverhältnis zu verändern</td>
+</tr>
+<tr>
+<td style="width: 50%;">Alt + Ziehen (Maus)</td>
+<td style="width: 50%;">Element duplizieren</td>
+</tr>
+<tr>
+<td style="width: 50%;">Strg + G</td>
+<td style="width: 50%;">Wenn mehrere Elemente markiert sind, können diese mit Strg + G gruppiert werden (übersichtlicher, Gruppe kann gemeinsam per Drag&amp;Drop verschoben werden)</td>
+</tr>
+</tbody>
+</table>
+<p>Für einen schnellen Einstieg empfiehlt sich außerdem ein Blick in die Figma Community-Section, in der Figma Nutzer vorgefertigte Wireframes, Templates, Bildersets und Icons beziehen können. Insbesondere für Figma-Einsteiger lassen sich hier einige Quickstart-Templates finden, die auch als Inspiration für eigene Projekte genutzt werden können.</p>
+<p>&lt;Überleitung zu Framer&gt;</p>
+<h4>Fazit</h4>
+<p>Figma besticht durch einen großzügigen Free-Plan, Kollaborationsmöglichkeiten für Teams, Demonstrierbarkeit durch teilbare Links und eine sehr aktive Community, die in großem Umfang Beispielressourcen und Tutorials bereitstellt.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>No-Code Tool Glide: Mobilfähige Apps aus Google Sheets generieren</title>
         <author>
@@ -20,7 +178,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-09-21T11:26:55+02:00</updated>
+        <updated>2020-10-01T16:25:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
@@ -31,7 +189,7 @@
             <![CDATA[
                     <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
                 <p><span style="font-weight: 400;">Spreadsheet-Software wie Excel und Google Sheets stellen in einer Vielzahl von Projekten essentielle Grundlage der Datenerfassung dar, ist jedoch häufig wenig übersichtlich und für mobile Nutzung oft unbrauchbar. Gleichzeitig stellen Spreadsheets jedoch die häufigste Datenquelle in allerlei vorstellbaren Projekten dar, was Quelle häufigen Ärgernisses ist.</span></p>
-<p><span style="font-weight: 400;">Genau diesen Anwendungsfall geht nun das amerikanische Startup </span><a href="https://www.glideapps.com/"><span style="font-weight: 400;">Glide</span></a> <span style="font-weight: 400;">an und verspricht eine automatische Generierung von mobilfähigen Web-Apps aus Google Sheets heraus. Programmierkenntnisse sind keine nötig, alles was man braucht liefert Glide zusammenklickbar mit und stellt sogar eine umfangreiche </span><a href="https://www.glideapps.com/templates"><span style="font-weight: 400;">Template-Gallerie</span></a><span style="font-weight: 400;"> bereits, die Demo-Apps für verschiedene Use-Cases beinhaltet (z.B. eine Konferenz-Timetable, ein CRM oder einen Task-Tracker).</span></p>
+<p><span style="font-weight: 400;">Genau diesen Anwendungsfall geht nun das amerikanische Startup </span><span style="font-weight: 400;">Glide</span> <span style="font-weight: 400;">an und verspricht eine automatische Generierung von mobilfähigen Web-Apps aus Google Sheets heraus. Programmierkenntnisse sind keine nötig, alles was man braucht liefert Glide zusammenklickbar mit und stellt sogar eine umfangreiche </span><a href="https://www.glideapps.com/templates"><span style="font-weight: 400;">Template-Gallerie</span></a><span style="font-weight: 400;"> bereits, die Demo-Apps für verschiedene Use-Cases beinhaltet (z.B. eine Konferenz-Timetable, ein CRM oder einen Task-Tracker).</span></p>
 <h4><span style="font-weight: 400;">Technische Umsetzung</span></h4>
 <p><span style="font-weight: 400;">Glide nutzt Google Sheets, um die Daten der App zu speichern, und generiert für den User eine sogenannte Progressive Web App, letztendlich nichts anderes als eine mobilfähige Webanwendung, die von Smartphone Nutzern auf dem Home Screen installiert werden kann. Dadurch erspart sich Glide den Umweg über die jeweiligen App Stores, stattdessen kann eine URL generiert werden, über die Nutzer die erstellte App nutzen bzw. installieren können. Durch die Verfügbarkeit über einen Weblink und die Ausführung im Browser laufen Glide-Apps automatisch auf jedmöglichen mobilen Geräten unabhängig vom Betriebssystem (egal ob Android, iOS, etc.) installiert werden. Nach Klick auf den jeweiligen Link erhält der Nutzer die Aufforderung, die App zum Home Screen seines Smartphones hinzuzzufügen. Der Clou: da es sich bei Progressive Web Apps um Webapplikationen handelt, kostet die App keinerlei Speicherplatz, da sie im Gegensatz zu nativen Apps direkt im Browser des Nutzers läuft.</span></p>
 <p><span style="font-weight: 400;">Über einen visuellen Editor können Glide-Nutzer das Look&amp;Feel der App anpassen, sodass Darstellung und Positionierung der Inhalte beliebig abgestimmt werden können. Daten können im zugehörigen Spreadsheet angepasst werden, sodass ein Hinzufügen, Bearbeiten und Löschen von Einträgen wie gewohnt innerhalb von Google Sheets vorgenommen werden kann.</span></p>
@@ -58,7 +216,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2020-09-21T11:26:55+02:00</updated>
+        <updated>2020-10-01T16:23:01+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/2/bubble.png" alt="" />
@@ -122,9 +280,9 @@
 </table>
 <p>Mehr Infos zum Pricing unter <a href="https://bubble.io/pricing"><span style="font-weight: 400;">https://bubble.io/pricing</span></a></p>
 <h4>Review - Eignung von Bubble für MVPs</h4>
-<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4W-LENVu8uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/4W-LENVu8uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <h4>In-depth Guide zu Bubble</h4>
-<p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OKVj1A9OcY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OKVj1A9OcY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <hr>
 <h3>Call To Action</h3>
 <div>Du hast Interesse, dein eigenes Projekt hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>
@@ -144,7 +302,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2020-09-21T11:26:55+02:00</updated>
+        <updated>2020-10-02T15:53:15+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
@@ -163,11 +321,12 @@
 <p class="msg msg--info"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a>: Git hat sich in den letzten Jahren das populärste Tool zur Versionierung und Quellcodeverwaltung durchgesetzt und ist für alle Coding-Projekte grundlegend. Gehostete Quellcodeverwaltung wie <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub </a>und <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">GitLab </a>ermöglicht es, Source Code öffentlich (oder privat) abzulegen, und direkt auch zu hosten (<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>) oder als Grundlage für Continuous Integration/ Continuous Deployment (<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">GitHub Actions</a>).<br>Die Hochschule München bietet außerdem eine eigengehostete <a href="https://gitlab.lrz.de/users/sign_in" target="_blank" rel="noopener noreferrer">GitLab-Instanz</a>, die allen Angehörigen der Hochschule mihilfe ihrer Hochschulkennung offensteht.</p>
 <h4><span style="font-weight: 400;">2) Kostenlose Angebote für Hosting und Cloud-Infrastruktur</span></h4>
 <p><span style="font-weight: 400;">Folgende Anbieter empfehlen sich aufgrund ihrer großzügigen Free-Pläne für das Hosting kleinerer Projekte und Webseiten besonders gut:<br><br></span></p>
+<p class="msg msg--info"><a href="https://aws.amazon.com/de/education/awseducate/students/" target="_blank" rel="noopener noreferrer">AWS Educate</a> - Studenten-Zugang für Amazons Cloud Services mit 100$ Startguthaben (keine Kreditkarte nötig)</p>
 <div>
-<p class="msg msg--info"><a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify </a>- extrem einfache Deployments von Frontend-Ressourcen (Webseiten und -applikationen) direkt aus der Quellcodeverwaltung heraus oder alternativ per Drag&amp;Drop von lokalen Dateien.</p>
-<p class="msg msg--info"><a href="https://firebase.google.com/?hl=de" target="_blank" rel="noopener noreferrer">Firebase </a>- Backend-as-a-Service Dienst von Google, der kostenlose Kontingente für Services wie Authentifizierung, Hosting und Storage (Firestore) bereitstellt.<br><br></p>
-<p class="msg msg--info"><a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer">Heroku </a>- Hosting von Web Applikationen (Free Plan mit Einschränkungen, Option eines kostenlosen Hobby-Dynos über GitHub Student)<br><br></p>
-<p class="msg msg--info"><a href="https://aws.amazon.com/de/" target="_blank" rel="noopener noreferrer">Amazon Webservices</a>, <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noopener noreferrer">Microsoft Azure</a>, <a href="https://cloud.google.com/?hl=de" target="_blank" rel="noopener noreferrer">Google Cloud Platform</a> - auch die großen Business-Clouds bieten Studenten Free-Plans, für die oftmals nur eine Registrierung mit Hochschuladresse (ohne Hinterlegen einer Kreditkarte) nötig ist.</p>
+<p class="msg msg--info"><a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify </a>- extrem simple Deployments von Frontend-Ressourcen (Webseiten und -applikationen) direkt aus der Quellcodeverwaltung heraus oder alternativ per Drag&amp;Drop von lokalen Dateien.</p>
+<p class="msg msg--info"><a href="https://firebase.google.com/?hl=de" target="_blank" rel="noopener noreferrer">Firebase </a>- Backend-as-a-Service Dienst von Google, der kostenlose Kontingente für Services wie Authentifizierung, Hosting und Storage (Firestore) bereitstellt.</p>
+<p class="msg msg--info"><a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer">Heroku </a>- Hosting von Web Applikationen (Free Plan mit Einschränkungen, Option eines kostenlosen Hobby-Dynos über GitHub Student)</p>
+<p class="msg msg--info"><a href="https://aws.amazon.com/de/" target="_blank" rel="noopener noreferrer">Amazon Webservices</a>, <a href="https://azure.microsoft.com/de-de/" target="_blank" rel="noopener noreferrer">Microsoft Azure</a>, <a href="https://cloud.google.com/?hl=de" target="_blank" rel="noopener noreferrer">Google Cloud Platform</a> - auch die großen Business-Clouds bieten Free-Plans, oftmals auch ohne Hinterlegen einer Kreditkarte (z.B. <a href="https://azure.microsoft.com/de-de/free/students/" target="_blank" rel="noopener noreferrer">Azure Student</a>).</p>
 </div>
 <h4><span style="font-weight: 400;">3) GitHub Student Developer Pack</span></h4>
 <figure class="post__image"><img loading="lazy"  src="https://precelerator.github.io/blog/media/posts/1/Screenshot-2020-09-18-122602.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-xs.png 300w ,https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-sm.png 480w ,https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-md.png 768w ,https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-xl.png 1200w ,https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-xxl.png 1600w ,https://precelerator.github.io/blog/media/posts/1/responsive/Screenshot-2020-09-18-122602-xxxl.png 2560w"  alt="GitHub Student Developer Pack"></figure>
