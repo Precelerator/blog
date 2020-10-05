@@ -1,36 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Precelerator Blog Drafts</title>
+    <title>Precelerator Blog</title>
     <link href="https://precelerator.github.io/blog/feed.xml" rel="self" />
     <link href="https://precelerator.github.io/blog" />
-    <updated>2020-10-02T15:56:35+02:00</updated>
+    <updated>2020-10-04T20:33:25+02:00</updated>
     <author>
         <name>Fabio Maienschein</name>
     </author>
     <id>https://precelerator.github.io/blog</id>
 
     <entry>
-        <title>Precelerator goes digital: Launch und nächste Schritte</title>
+        <title>AWS Educate: Cloud-Services für Studierende mit Free-Plan und 100$ Startguthaben</title>
+        <author>
+            <name>Fabio Maienschein</name>
+        </author>
+        <link href="https://precelerator.github.io/blog/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html"/>
+        <id>https://precelerator.github.io/blog/aws-educate-cloud-services-fuer-studierende-mit-free-plan-und-100dollar-startguthaben.html</id>
+
+        <updated>2020-10-04T20:33:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://precelerator.github.io/blog/media/posts/9/AWS-Educate-Starter-2.png" alt="" />
+                    Mit AWS Educate stellt Amazon Studierenden und Lehrkräften kostenlose Cloud-Ressourcen bereit, um sich in Sachen Cloud weiterzubilden und erste Erfahrungen mit den Services von AWS zu sammeln. So erhalten Hochschul-Angehörige neben verschiedenen Video-Guides zu verschiedenen Karrierepfaden (Machine Learning Engineer, Data Scientist, App Developer, DevOps Engineer,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://precelerator.github.io/blog/media/posts/9/AWS-Educate-Starter-2.png" alt="" />
+                <p>Mit <a href="https://aws.amazon.com/de/education/awseducate/students/" target="_blank" rel="noopener noreferrer">AWS Educate</a> stellt Amazon Studierenden und Lehrkräften kostenlose Cloud-Ressourcen bereit, um sich in Sachen Cloud weiterzubilden und erste Erfahrungen mit den Services von AWS zu sammeln. So erhalten Hochschul-Angehörige neben verschiedenen Video-Guides zu verschiedenen Karrierepfaden (Machine Learning Engineer, Data Scientist, App Developer, DevOps Engineer, Cyber Security Engineer, etc.) außerdem AWS-Credits, die über die AWS-Konsole für Cloud-Services genutzt werden können. Für Studierende der Hochschule München sind dies 100$ jährlich, die ohne Hinterlegen einer Kreditkarte quasi als Spielwiese genutzt werden können.</p>
+<p>Die AWS-Plattform bietet eine Vielzahl nützlicher Services rund um Hosting (Webseiten, Web-Apps, Backends), Authentifizierung, Cloud-Ressourcen (Rechenleistung, Speicherplatz) sowie Cloud-Infrastruktur (Datenbanken, API Gateways, etc.).</p>
+<h4>So sicherst du dir deine AWS-Ressourcen</h4>
+<p>Im ersten Schritt ist es notwendig, sich bei AWS Educate mit seiner HM-Emailadresse zu registrieren. Dies kann im <a href="https://www.awseducate.com/registration" target="_blank" rel="noopener noreferrer">verlinkten Dialog</a> erledigt werden. Nach Wahl der Rolle ("Student") fragt AWS Educate eine Reihe von Infos ab, so z.B. Name, Land, Geburtsdatum, Email und voraussichtliches Studienende.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://precelerator.github.io/blog/media/posts/9/AWS-Educate.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-xs.png 300w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-sm.png 480w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-md.png 768w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-xl.png 1200w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-xxl.png 1600w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-xxxl.png 2560w"  alt="Registrierung bei AWS Educate" width="484" height="294">
+<figcaption >Registrierung bei AWS Educate</figcaption>
+</figure>
+<p>Nach erfolgter Registrierung kann es 1-2 Tage dauern, da AWS Registrierung und Studentenstatus prüft. Im Anschluss erhälst du eine Email, die folgendermaßermaßen aussehen sollte:</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://precelerator.github.io/blog/media/posts/9/AWS-Educate-Mail.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-xs.png 300w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-sm.png 480w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-md.png 768w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-xl.png 1200w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-xxl.png 1600w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Mail-xxxl.png 2560w"  alt="AWS Educate Mail" width="633" height="194"></figure>
+<p>Über den Link aus der Mail kannst du dein AWS Educate Passwort festlegen. Anschließend gelangst du über den Reiter "AWS Account" nach Akzeptieren der Nutzungsvereinbarungen zur AWS Console:</p>
+<figure class="post__image"><img loading="lazy"  src="https://precelerator.github.io/blog/media/posts/9/AWS-Educate-Starter.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-xs.png 300w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-sm.png 480w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-md.png 768w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-xl.png 1200w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-xxl.png 1600w ,https://precelerator.github.io/blog/media/posts/9/responsive/AWS-Educate-Starter-xxxl.png 2560w"  alt="" width="939" height="516"></figure>
+<p>Damit stehen dir nun deine jährlichen Cloud-Credits zur Verfügung. Es lohnt sich ein Blick in die FAQs in der Workbench, so sind z.B. folgende Hinweise zu beachten:</p>
+<ul>
+<li>All services are only supported in US East (N. Virginia) [us-east-1] region.</li>
+<li>"Remember to shut down your instances when not in use to make the best use of your credits." -&gt; Cloud-Ressourcen verursachen laufende Kosten - deaktiviere oder lösche teure Ressourcen immer direkt, wenn du sie nicht mehr brauchst</li>
+</ul>
+<hr>
+<p>Du hast vor, eigene Projekte in AWS zu erstellen und benötigst Unterstützung? Die HM pflegt über das <a href="https://sites.hm.edu/dt_lab/index.de.html" target="_blank" rel="noopener noreferrer">Digital Transformation Lab (DTLab)</a> eine enge Partnerschaft mit AWS und kann dir Kontakte und Hilfestellungen rund um AWS vermitteln.</p>
+<p class="msg msg--highlight ">Wusstest du schon? Das DT-Lab veranstaltet in Kooperation mit AWS jedes Semester <a href="https://sites.hm.edu/dt_lab/informationen/fuer_strudierende/dtlab_fuer_studierende.de.html" target="_blank" rel="noopener noreferrer">Challenges</a>, bei denen Studierende mithilfe der Amazon Plattform gesellschaftliche Problemstellungen angeht!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Precelerator goes digital: Das kannst du vom Launch des neuen Angebots an der HM erwarten</title>
         <author>
             <name>Fabio Maienschein</name>
         </author>
         <link href="https://precelerator.github.io/blog/precelerator-goes-digital-launch-und-naechste-schritte.html"/>
         <id>https://precelerator.github.io/blog/precelerator-goes-digital-launch-und-naechste-schritte.html</id>
 
-        <updated>2020-10-02T15:56:35+02:00</updated>
+        <updated>2020-10-02T20:57:20+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/8/Screenshot-Website.png" alt="" />
-                    <p>Mit dem Launch der Homepage des Precelerators sowie dieses Blogs startet der Precelerator digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
+                    <p>Mit dem Launch der neuen <a href="https://precelerator.github.io/" target="_blank" rel="noopener noreferrer">Website</a> sowie dieses Blogs startet der Precelerator, das neue Angebot des <a href="http://sce.de/" target="_blank" rel="noopener noreferrer">Strascheg Center für Entrepreneurship</a> an der HM digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://precelerator.github.io/blog/media/posts/8/Screenshot-Website.png" alt="" />
-                <p>Mit dem Launch der Homepage des Precelerators sowie dieses Blogs startet der Precelerator digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
+                <p>Mit dem Launch der neuen <a href="https://precelerator.github.io/" target="_blank" rel="noopener noreferrer">Website</a> sowie dieses Blogs startet der Precelerator, das neue Angebot des <a href="http://sce.de/" target="_blank" rel="noopener noreferrer">Strascheg Center für Entrepreneurship</a> an der HM digital ins neue Semester. Hier erfährst du, für wen der neue Precelerator gedacht ist und welche Precelerator-Angebote in Kürze auf dich warten.</p>
 
-<p>&lt;todo&gt; </p>
+<p>Vom Antrag zum Projektstart</p>
+<p>- gemeinsamer Antrag von HM und SCE im Rahmen der Ausschreibung Startup@FH</p>
+<p>- Förderung durch das BMBF (Verlinkung der Pressemitteilung)</p>
+<p>- Projektstart im 2. Halbjahr 2020, Launch jetzt zum Start des Wintersemesters</p>
+<p>Projektvorhaben</p>
+<p>Worum geht's im Precelerator/ an wen richtet er sich?</p>
+<p>Der Precelerator im Kontext von Corona</p>
+<p>Was bieten wir jetzt an Angeboten, wo corona-bedingt alles anders ist?</p>
+<hr>
+<h3>Call To Action</h3>
+<div>Du bist Student/Lehrkraft/Mitarbeiter an der HM und willst Teil des entstehenden Precelerators werden? Wir freuen uns über jegliche Fragen und Anregungen.</div>
+<div> </div>
+<div>Schreib uns eine Mail an <a href="mailto:precelerator@sce.de">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.<a href="https://precelerator.github.io/" target="_blank" rel="noopener noreferrer"></a></div>
             ]]>
         </content>
     </entry>
@@ -302,7 +354,7 @@
             <category term="Project"/>
             <category term="Code"/>
 
-        <updated>2020-10-02T15:53:15+02:00</updated>
+        <updated>2020-10-02T18:37:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/1/garrhet-sampson-CmF_5GYc6c0-unsplash.jpg" alt="" />
