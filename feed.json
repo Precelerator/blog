@@ -21,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-04T20:33:25+02:00",
-            "date_modified": "2020-10-05T10:23:03+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/precelerator-goes-digital-launch-und-naechste-schritte.html",
@@ -36,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-02T15:55:23+02:00",
-            "date_modified": "2020-10-02T20:57:20+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/tools-and-templates-fuer-landing-pages.html",
@@ -53,8 +53,8 @@
                    "Tools",
                    "No-Code"
             ],
-            "date_published": "2020-10-01T19:37:32+02:00",
-            "date_modified": "2020-10-02T15:51:27+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/design-tool-figma-klickbare-prototypen-in-kollaborativer-umgebung-erstellen.html",
@@ -69,8 +69,8 @@
             "tags": [
                    "Tools"
             ],
-            "date_published": "2020-09-29T10:55:08+02:00",
-            "date_modified": "2020-10-01T16:21:43+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/no-code-tool-glide-mobilfaehige-apps-aus-google-sheets-generieren.html",
@@ -87,15 +87,15 @@
                    "Review",
                    "No-Code"
             ],
-            "date_published": "2020-09-18T14:17:33+02:00",
-            "date_modified": "2020-10-01T16:25:55+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/no-code-tool-bubble-web-apps-erstellen.html",
             "url": "https://precelerator.github.io/blog/no-code-tool-bubble-web-apps-erstellen.html",
             "title": " No-Code Tool Bubble: Web Apps erstellen",
             "summary": "Egal ob TripAdvisor, AirBnB oder Shopify: Web-Apps und Plattformen stellen neben mobilen Apps die wichtigste Plattform für Consumer- und B2B Anwendungen dar. Bis vor wenigen Jahren war man in diesem Bereich noch auf aufwendige Webentwicklung angewiesen, immer mehr entstehen aber sogenannten No- bzw. Low-Code Plattformen,&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Egal ob TripAdvisor, AirBnB oder Shopify: Web-Apps und Plattformen stellen neben mobilen Apps die wichtigste Plattform für Consumer- und B2B Anwendungen dar. Bis vor wenigen Jahren war man in diesem Bereich noch auf aufwendige Webentwicklung angewiesen, immer mehr entstehen aber sogenannten No- bzw. Low-Code Plattformen, die auch technisch weniger versierten Nutzer die Erstellung von Webanwendungen ermöglichen.</span></p>\n<p><span style=\"font-weight: 400;\">Eine solche Low-Code Plattform ist <a href=\"https://bubble.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Bubble</a>, ein junges Startup aus New York. Die Plattform verspricht die vereinfachte Erstellung voll funktionsfähiger Webanwendungen mithilfe der hauseigenen visuellen Programmiersprache. Mithilfe von Bubble erstellte Webanwendungen werden von Bubble selbst gehostet und sind für Benutzer per URL zugreifbar.</span></p>\n<h4><span style=\"font-weight: 400;\">Features</span></h4>\n<p><span style=\"font-weight: 400;\">Bubble bietet verschiedene Features wie z.B. Authentifizierung (eine vorgeschaltete Anmeldung/Registrierung), Speichern, Abrufen und Bearbeiten von Daten, Anbindung von APIs, also Schnittstellen zu beliebigen Backends sowie die Anbindung von Zahlungsanbietren (z.B. Stripe). Erstellte Webapplikationen können responsive, also für alle Bildschirmgrößen geeignet gebaut werden, sodass sie auch auf Smartphones und Tablets passend dargestellt werden.</span></p>\n<h4><span style=\"font-weight: 400;\">Prinzipien</span></h4>\n<p><span style=\"font-weight: 400;\">Die Benutzeroberfläche von Bubble-Anwendungen kann aus einer Bibliothek aus Oberflächenkomponenten (Buttons, Textfelder, etc.) per Drag&amp;Drop zusammengesetzt werden. Sogenannte Workflows regeln die Abläufe, die bei Benutzerinteraktionen von der Anwendung ausgeführt werden sollen. </span></p>\n<h4><span style=\"font-weight: 400;\">Umgang mit Bubble erlernen</span></h4>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Einführung und Dokumentation</span></td>\n<td style=\"width: 50%;\"><a href=\"https://manual.bubble.io/\"><span style=\"font-weight: 400;\">https://manual.bubble.io/</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Interaktive Lessons</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/lessons\"><span style=\"font-weight: 400;\">https://bubble.io/lessons</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Fortgeschrittene Lessons zum Nachbauen bekannter Web-Apps</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/how-to-build\"><span style=\"font-weight: 400;\">https://bubble.io/how-to-build</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Hilfestellung - Forum</span></td>\n<td style=\"width: 50%;\"><a href=\"https://forum.bubble.io/\"><span style=\"font-weight: 400;\">https://forum.bubble.io/</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Marketplace für Templates und Plugins</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/marketplace\"><span style=\"font-weight: 400;\">https://bubble.io/marketplace</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Showcase Gallerie zur Inspiration</span><span style=\"font-weight: 400;\"><br></span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\"><a href=\"https://bubble.io/showcase\">https://bubble.io/showcase</a></span></td>\n</tr>\n</tbody>\n</table>\n<h4><span style=\"font-weight: 400;\">Pricing</span></h4>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Free Plan mit Branding, keine eigene Domain</span></td>\n<td style=\"width: 50%;\">free</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Personal</span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">25$/month</span></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Professional</span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">115$/month</span></td>\n</tr>\n</tbody>\n</table>\n<p>Mehr Infos zum Pricing unter <a href=\"https://bubble.io/pricing\"><span style=\"font-weight: 400;\">https://bubble.io/pricing</span></a></p>\n<h4>Review - Eignung von Bubble für MVPs</h4>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4W-LENVu8uc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<h4>In-depth Guide zu Bubble</h4>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/6OKVj1A9OcY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<h3>Call To Action</h3>\n<div>Du hast Interesse, dein eigenes Projekt hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>\n<div> </div>\n<div>Schreib uns eine Mail an <a href=\"mailto:precelerator@sce.de\">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.</div>",
+            "content_html": "<p><span style=\"font-weight: 400;\">Egal ob TripAdvisor, AirBnB oder Shopify: Web-Apps und Plattformen stellen neben mobilen Apps die wichtigste Plattform für Consumer- und B2B Anwendungen dar. Bis vor wenigen Jahren war man in diesem Bereich noch auf aufwendige Webentwicklung angewiesen, immer mehr entstehen aber sogenannten No- bzw. Low-Code Plattformen, die auch technisch weniger versierten Nutzer die Erstellung von Webanwendungen ermöglichen.</span></p>\n<p><span style=\"font-weight: 400;\">Eine solche Low-Code Plattform ist <a href=\"https://bubble.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Bubble</a>, ein junges Startup aus New York. Die Plattform verspricht die vereinfachte Erstellung voll funktionsfähiger Webanwendungen mithilfe der hauseigenen visuellen Programmiersprache. Mithilfe von Bubble erstellte Webanwendungen werden von Bubble selbst gehostet und sind für Benutzer per URL zugreifbar.</span></p>\n<h4><span style=\"font-weight: 400;\">Features</span></h4>\n<p><span style=\"font-weight: 400;\">Bubble bietet verschiedene Features wie z.B. Authentifizierung (eine vorgeschaltete Anmeldung/Registrierung), Speichern, Abrufen und Bearbeiten von Daten, Anbindung von APIs, also Schnittstellen zu beliebigen Backends sowie die Anbindung von Zahlungsanbietren (z.B. Stripe). Erstellte Webapplikationen können responsive, also für alle Bildschirmgrößen geeignet gebaut werden, sodass sie auch auf Smartphones und Tablets passend dargestellt werden.</span></p>\n<h4><span style=\"font-weight: 400;\">Prinzipien</span></h4>\n<p><span style=\"font-weight: 400;\">Die Benutzeroberfläche von Bubble-Anwendungen kann aus einer Bibliothek aus Oberflächenkomponenten (Buttons, Textfelder, etc.) per Drag&amp;Drop zusammengesetzt werden. Sogenannte Workflows regeln die Abläufe, die bei Benutzerinteraktionen von der Anwendung ausgeführt werden sollen. </span></p>\n<h4><span style=\"font-weight: 400;\">Umgang mit Bubble erlernen</span></h4>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Einführung und Dokumentation</span></td>\n<td style=\"width: 50%;\"><a href=\"https://manual.bubble.io/\"><span style=\"font-weight: 400;\">https://manual.bubble.io/</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Interaktive Lessons</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/lessons\"><span style=\"font-weight: 400;\">https://bubble.io/lessons</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Fortgeschrittene Lessons zum Nachbauen bekannter Web-Apps</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/how-to-build\"><span style=\"font-weight: 400;\">https://bubble.io/how-to-build</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Hilfestellung - Forum</span></td>\n<td style=\"width: 50%;\"><a href=\"https://forum.bubble.io/\"><span style=\"font-weight: 400;\">https://forum.bubble.io/</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Marketplace für Templates und Plugins</span></td>\n<td style=\"width: 50%;\"><a href=\"https://bubble.io/marketplace\"><span style=\"font-weight: 400;\">https://bubble.io/marketplace</span></a></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Showcase Gallerie zur Inspiration</span><span style=\"font-weight: 400;\"><br></span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\"><a href=\"https://bubble.io/showcase\">https://bubble.io/showcase</a></span></td>\n</tr>\n</tbody>\n</table>\n<h4><span style=\"font-weight: 400;\">Pricing</span></h4>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Free Plan mit Branding, keine eigene Domain</span></td>\n<td style=\"width: 50%;\">free</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Personal</span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">25$/month</span></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">Professional</span></td>\n<td style=\"width: 50%;\"><span style=\"font-weight: 400;\">115$/month</span></td>\n</tr>\n</tbody>\n</table>\n<p>Mehr Infos zum Pricing unter <a href=\"https://bubble.io/pricing\"><span style=\"font-weight: 400;\">https://bubble.io/pricing</span></a></p>\n<h4>Review - Eignung von Bubble für MVPs</h4>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4W-LENVu8uc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<h4>In-depth Guide zu Bubble</h4>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/6OKVj1A9OcY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<hr>\n<h3>Call To Action</h3>\n<div>Du hast Interesse, dein eigenes Projekt hochzuziehen und hast Fragen oder brauchst Unterstützung? Wir vom Precelerator, dem neuen Angebot für Tüftler, Coder und zukünftige Entrepreneure am SCE, helfen dir dabei, dein Projekt auf den richtigen Weg zu bringen!</div>\n<div> </div>\n<div>Schreib uns eine Mail an <a href=\"mailto:precelerator@sce.de\">precelerator@sce.de</a> und wir melden uns schnellstmöglich bei dir zurück.</div>",
             "image": "https://precelerator.github.io/blog/media/posts/2/bubble.png",
             "author": {
                 "name": "Fabio Maienschein"
@@ -105,8 +105,8 @@
                    "Review",
                    "No-Code"
             ],
-            "date_published": "2020-09-18T14:14:43+02:00",
-            "date_modified": "2020-10-01T16:23:01+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         },
         {
             "id": "https://precelerator.github.io/blog/empfohlene-ressourcen.html",
@@ -123,8 +123,8 @@
                    "Project",
                    "Code"
             ],
-            "date_published": "2020-09-18T13:12:38+02:00",
-            "date_modified": "2020-10-02T18:37:44+02:00"
+            "date_published": "2020-11-03T10:28:53+01:00",
+            "date_modified": "2020-11-03T10:28:53+01:00"
         }
     ]
 }
