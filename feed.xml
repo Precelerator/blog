@@ -14,13 +14,13 @@
         <author>
             <name>Fabio Maienschein</name>
         </author>
-        <link href="https://precelerator.github.io/blog/no-code-tool-glide-mobilfaehige-apps-aus-google-sheets-generieren.html"/>
-        <id>https://precelerator.github.io/blog/no-code-tool-glide-mobilfaehige-apps-aus-google-sheets-generieren.html</id>
+        <link href="https://precelerator.github.io/blog/no-code-tool-glide.html"/>
+        <id>https://precelerator.github.io/blog/no-code-tool-glide.html</id>
             <category term="Tools"/>
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2021-01-29T14:12:32+01:00</updated>
+        <updated>2021-01-29T14:22:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
@@ -58,7 +58,7 @@
             <category term="No-Code"/>
             <category term="Digital Prototyping"/>
 
-        <updated>2021-01-29T14:12:32+01:00</updated>
+        <updated>2021-01-29T14:22:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/10/No-Code.png" alt="" />
@@ -112,7 +112,7 @@
 </tr>
 </tbody>
 </table>
-<p>Zum Einstieg in No-Code Apps lohnt sich ein Blick auf <a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">Glideapps</a>: Das Tool erlaubt es einem, basierend auf einem Google Sheet als Datenquelle eine Progressive Web App (PWA) zu generieren, die man mit Nutzern bequem per URL oder QR-Code teilen kann. Eine Einführung in Glide findet sich im <a href="https://precelerator.github.io/blog/no-code-tool-glide-mobilfaehige-apps-aus-google-sheets-generieren.html" target="_blank" rel="noopener noreferrer">hier verlinkten Blogpost</a>.</p>
+<p>Zum Einstieg in No-Code Apps lohnt sich ein Blick auf <a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">Glideapps</a>: Das Tool erlaubt es einem, basierend auf einem Google Sheet als Datenquelle eine Progressive Web App (PWA) zu generieren, die man mit Nutzern bequem per URL oder QR-Code teilen kann. Eine Einführung in Glide findet sich im <a href="https://precelerator.github.io/blog/no-code-tool-glide.html" target="_blank" rel="noopener noreferrer">hier verlinkten Blogpost</a>.</p>
 <h4>Fazit</h4>
 <p>No-Code Tools verbergen technische Implementierungsdetails vom Anwender und erleichtern die Erstellung von Anwendungen für nicht-technische Nutzer ungemein. Da das Endergebnis eine lauffähige Anwendung ist (und nicht der Quellcode), begibt man sich allerdings in eine Abhängigkeit vom Betreiber der No-Code Plattform, die für Prototypen nicht weiter problematisch ist, aber bei geschäftskritischen Anwendungen sorgfältig bedacht werden sollte.</p>
 <p>Da No-Code als Trend weiter Fahrt aufnimmt, bleibt abzuwarten, welche Anbieter und Betreiber sich langfristig durchsetzen werden. Es lohnt sich, anhand von Beispiel-Anwendungen Features und Integrationen einer Plattform zu evaluieren, aber durch großzügige Free-Plans können quasi alle Tools problemlos ausgetestet werden, um einen Abgleich mit den Anforderungen des eigenen Anwendungsfalls vornehmen zu können. Nicht alle No-Code Plattformen unterstützen fortgeschrittene Features wie Versionierung oder Kollaboration, was sich in den nächsten Jahren aber weiter verbessern sollte. Gerade in der Anwendungserstellung ist ein gewisses technisches Verständnis für No-Code Tools trotzdem relevant, um abschätzen zu können, welche Entscheidungen einem das jeweilige Tool abnimmt und welche Art von Anwendung das Tool am Ende produziert (Web-App? Native App? Responsive? etc.).</p>
@@ -132,7 +132,7 @@
             <category term="Tools"/>
             <category term="Digital Prototyping"/>
 
-        <updated>2021-01-29T14:12:32+01:00</updated>
+        <updated>2021-01-29T14:22:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/4/Figma.png" alt="" />
@@ -286,7 +286,7 @@
         <link href="https://precelerator.github.io/blog/precelerator-kickoff.html"/>
         <id>https://precelerator.github.io/blog/precelerator-kickoff.html</id>
 
-        <updated>2021-01-29T14:12:32+01:00</updated>
+        <updated>2021-01-29T14:22:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/8/landing-page.png" alt="" />
