@@ -20,7 +20,7 @@
             <category term="Review"/>
             <category term="No-Code"/>
 
-        <updated>2021-01-29T14:22:34+01:00</updated>
+        <updated>2021-04-29T13:49:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/3/glide.png" alt="" />
@@ -58,7 +58,7 @@
             <category term="No-Code"/>
             <category term="Digital Prototyping"/>
 
-        <updated>2021-01-29T14:22:34+01:00</updated>
+        <updated>2021-04-29T13:49:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/10/No-Code.png" alt="" />
@@ -72,47 +72,65 @@
 <p>Dieser Vision haben sich in den letzten Jahren viele schnell wachsende Startups verschrieben, aber auch die großen Player reagieren: Microsoft veröffentlichte mit der <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noopener noreferrer">Power Platform</a> eine No-Code Plattform, die sich fließend mit den großen Microsoft-Systemen integriert (Dynamics), AWS veröffentlichte mit <a href="https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/" target="_blank" rel="noopener noreferrer">Honeycode </a>eine Konkurrenzlösung, und auch Google investiert in aufstrebende No-Code Anbieter wie z.B. <a href="https://techcrunch.com/2020/01/14/google-acquires-appsheet-to-bring-no-code-development-to-google-cloud/" target="_blank" rel="noopener noreferrer">AppSheet</a>.</p>
 <p>No-Code Tools erlauben durch die geringere Einstiegshürde (im Vergleich zu traditioneller Programmierung) eine schnelle Einarbeitung und infolge schnelle Iterationen beim Ausarbeiten einer Idee. Anhand simpler Prototypen können Ideen mit wenig Anlaufzeit ausgetestet werden und frühzeitig erstes User-Feedback eingeholt werden. Gerade für Proof-of-Concept Prototypen und simple/generische Anwendungsfälle gibt es bereits eine Reihe möglicher No-Code Tools, die versuchen diese Anwendungsfälle abzudecken. No-Code ist somit nicht zwingend ein Ersatz für Programmierung, sondern eher ein weiteres Werkzeug zur Erstellung von Anwendungen. Gerade für nicht-technische Nutzer bieten No-Code Tools die Möglichkeit, sich ein grundlegendes Verständnis zum Aufbau und zur Gestaltung von Anwendungen anzueignen, ohne zwingend Programmieren lernen zu müssen.</p>
 <p>Besonders beliebt sind No-Code Tools für simple Benutzeroberflächen sowie zur Modellierung einfacher Prozesse und Workflows. In der folgenden Übersicht findet sich eine Auswahl von Tools gegliedert nach typischen No-Code Anwendungsbereichen. Eine ausführlichere Liste findet sich <a href="https://nocodelist.co/" target="_blank" rel="noopener noreferrer">hier </a>oder <a href="https://www.nocode.tech/" target="_blank" rel="noopener noreferrer">hier</a>.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 766px;" border="1">
 <tbody>
-<tr>
-<td style="width: 50%;">Landing Pages</td>
-<td style="width: 50%;"><a href="https://carrd.co/" target="_blank" rel="noopener noreferrer">Carrd</a>, <a href="https://www.nocode.tech/" target="_blank" rel="noopener noreferrer">Launchaco</a></td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Landing Pages</td>
+<td style="width: 50%; height: 50px;"><a href="https://carrd.co/" target="_blank" rel="noopener noreferrer">Carrd</a>, <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>(+ <a href="https://elementor.com/" target="_blank" rel="noopener noreferrer">Elementor </a>etc.)</td>
 </tr>
-<tr>
-<td style="width: 50%;">Webseiten</td>
-<td style="width: 50%;"><a href="https://de.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>, <a href="https://webflow.com/dashboard?r=1" target="_blank" rel="noopener noreferrer">Webflow</a>, <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>(+ <a href="https://elementor.com/" target="_blank" rel="noopener noreferrer">Elementor </a>etc.)</td>
+<tr style="height: 79px;">
+<td style="width: 50%; height: 79px;">Webseiten</td>
+<td style="width: 50%; height: 79px;"><a href="https://de.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>, <a href="https://webflow.com/dashboard?r=1" target="_blank" rel="noopener noreferrer">Webflow</a>, <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>(+ <a href="https://elementor.com/" target="_blank" rel="noopener noreferrer">Elementor </a>etc.)</td>
 </tr>
-<tr>
-<td style="width: 50%;">Web Shops</td>
-<td style="width: 50%;"><a href="https://www.shopify.de/" target="_blank" rel="noopener noreferrer">Shopify</a>, <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>+ <a href="https://woocommerce.com/" target="_blank" rel="noopener noreferrer">WooCommerce</a>, <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a></td>
+<tr style="height: 79px;">
+<td style="width: 50%; height: 79px;">Web Shops</td>
+<td style="width: 50%; height: 79px;"><a href="https://www.shopify.de/" target="_blank" rel="noopener noreferrer">Shopify</a>, <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">Wordpress </a>+ <a href="https://woocommerce.com/" target="_blank" rel="noopener noreferrer">WooCommerce</a>, <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a></td>
 </tr>
-<tr>
-<td style="width: 50%;">App-Entwicklung</td>
-<td style="width: 50%;"><a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">Glideapps</a>, <a href="https://www.appsheet.com/" target="_blank" rel="noopener noreferrer">AppSheet</a>, <a href="https://www.appgyver.com/" target="_blank" rel="noopener noreferrer">AppGyver</a>, <a href="http://adalo.com/" target="_blank" rel="noopener noreferrer">Adalo</a>, <a href="https://bubble.io/" target="_blank" rel="noopener noreferrer">Bubble</a></td>
+<tr style="height: 108px;">
+<td style="width: 50%; height: 108px;">App-Entwicklung</td>
+<td style="width: 50%; height: 108px;"><a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">Glideapps</a> (mobilfähige WebApps), <a href="https://www.appsheet.com/" target="_blank" rel="noopener noreferrer">AppSheet</a>, <a href="https://thunkable.com/#/" target="_blank" rel="noopener noreferrer">Thunkable</a>, <a href="https://www.appgyver.com/" target="_blank" rel="noopener noreferrer">AppGyver</a>, <a href="http://adalo.com/" target="_blank" rel="noopener noreferrer">Adalo</a>, <a href="https://bubble.io/" target="_blank" rel="noopener noreferrer">Bubble (Webanwendungen)</a></td>
 </tr>
-<tr>
-<td style="width: 50%;">Chatbots</td>
-<td style="width: 50%;"><a href="https://landbot.io/" target="_blank" rel="noopener noreferrer">Landbot</a> (Bot), <a href="https://www.tawk.to/" target="_blank" rel="noopener noreferrer">Tawk.to</a> (Live Chat)</td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Datenbank/ Tabellen (+API)</td>
+<td style="width: 50%; height: 50px;"><a href="https://airtable.com/" target="_blank" rel="noopener noreferrer">Airtable</a></td>
 </tr>
-<tr>
-<td style="width: 50%;">Integration von Services</td>
-<td style="width: 50%;"><a href="http://zapier.com/" target="_blank" rel="noopener noreferrer">Zapier</a>, <a href="https://www.integromat.com/en/" target="_blank" rel="noopener noreferrer">Integromat</a></td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Chatbots</td>
+<td style="width: 50%; height: 50px;"><a href="https://landbot.io/" target="_blank" rel="noopener noreferrer">Landbot</a> (Bot), <a href="https://www.tawk.to/" target="_blank" rel="noopener noreferrer">Tawk.to</a> (Live Chat)</td>
 </tr>
-<tr>
-<td style="width: 50%;">Voice Interfaces</td>
-<td style="width: 50%;"><a href="https://www.voiceflow.com/" target="_blank" rel="noopener noreferrer">VoiceFlow</a></td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Integration von Services</td>
+<td style="width: 50%; height: 50px;"><a href="http://zapier.com/" target="_blank" rel="noopener noreferrer">Zapier</a>, <a href="https://www.integromat.com/en/" target="_blank" rel="noopener noreferrer">Integromat</a></td>
 </tr>
-<tr>
-<td style="width: 50%;">AI/ML</td>
-<td style="width: 50%;"><a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noopener noreferrer">Teachable Machine</a></td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Voice Interfaces</td>
+<td style="width: 50%; height: 50px;"><a href="https://www.voiceflow.com/" target="_blank" rel="noopener noreferrer">VoiceFlow</a></td>
 </tr>
-<tr>
-<td style="width: 50%;">Hardware/ Eventbasierte Systeme</td>
-<td style="width: 50%;"><a href="https://nodered.org/" target="_blank" rel="noopener noreferrer">Node-RED</a></td>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">AI/ML</td>
+<td style="width: 50%; height: 50px;"><a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noopener noreferrer">Teachable Machine</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Hardware/ Eventbasierte Systeme</td>
+<td style="width: 50%; height: 50px;"><a href="https://nodered.org/" target="_blank" rel="noopener noreferrer">Node-RED</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Zahlungsabwicklung</td>
+<td style="width: 50%; height: 50px;"><a href="https://stripe.com/de" target="_blank" rel="noopener noreferrer">Stripe</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Email-Service</td>
+<td style="width: 50%; height: 50px;"><a href="https://sendgrid.com/" target="_blank" rel="noopener noreferrer">Sendgrid</a></td>
+</tr>
+<tr style="height: 50px;">
+<td style="width: 50%; height: 50px;">Paywall für bezahlten Content</td>
+<td style="width: 50%; height: 50px;"><a href="https://www.memberstack.com/" target="_blank" rel="noopener noreferrer">Memberstack</a></td>
 </tr>
 </tbody>
 </table>
 <p>Zum Einstieg in No-Code Apps lohnt sich ein Blick auf <a href="https://www.glideapps.com/" target="_blank" rel="noopener noreferrer">Glideapps</a>: Das Tool erlaubt es einem, basierend auf einem Google Sheet als Datenquelle eine Progressive Web App (PWA) zu generieren, die man mit Nutzern bequem per URL oder QR-Code teilen kann. Eine Einführung in Glide findet sich im <a href="https://precelerator.github.io/blog/no-code-tool-glide.html" target="_blank" rel="noopener noreferrer">hier verlinkten Blogpost</a>.</p>
+<h4>Founder Stories</h4>
+<p>Inspiration für No-Code Unternehmungen finden sich viele, eine ausführlichere Sammlung z.B. bei <a href="https://www.makerpad.co/stories" target="_blank" rel="noopener noreferrer">Makerpad</a>. Auffällig ist es, dass viele dieser Projekte auf No-Code Tools starten und diese nach ersten Umsätzen nach und nach durch eigenprogrammierte Anwendungen ersetzen oder ergänzen. Dies hängt unter anderem mit Limitationen solcher Tools und einer nicht-gewollten Abhängigkeit vom No-Code Anbieter zusammen, unterstreicht aber nochmal den Wert von No-Code Tools für initiale Prototypen und Proof-of-Concepts.</p>
 <h4>Fazit</h4>
 <p>No-Code Tools verbergen technische Implementierungsdetails vom Anwender und erleichtern die Erstellung von Anwendungen für nicht-technische Nutzer ungemein. Da das Endergebnis eine lauffähige Anwendung ist (und nicht der Quellcode), begibt man sich allerdings in eine Abhängigkeit vom Betreiber der No-Code Plattform, die für Prototypen nicht weiter problematisch ist, aber bei geschäftskritischen Anwendungen sorgfältig bedacht werden sollte.</p>
 <p>Da No-Code als Trend weiter Fahrt aufnimmt, bleibt abzuwarten, welche Anbieter und Betreiber sich langfristig durchsetzen werden. Es lohnt sich, anhand von Beispiel-Anwendungen Features und Integrationen einer Plattform zu evaluieren, aber durch großzügige Free-Plans können quasi alle Tools problemlos ausgetestet werden, um einen Abgleich mit den Anforderungen des eigenen Anwendungsfalls vornehmen zu können. Nicht alle No-Code Plattformen unterstützen fortgeschrittene Features wie Versionierung oder Kollaboration, was sich in den nächsten Jahren aber weiter verbessern sollte. Gerade in der Anwendungserstellung ist ein gewisses technisches Verständnis für No-Code Tools trotzdem relevant, um abschätzen zu können, welche Entscheidungen einem das jeweilige Tool abnimmt und welche Art von Anwendung das Tool am Ende produziert (Web-App? Native App? Responsive? etc.).</p>
@@ -132,7 +150,7 @@
             <category term="Tools"/>
             <category term="Digital Prototyping"/>
 
-        <updated>2021-01-29T14:22:34+01:00</updated>
+        <updated>2021-04-29T13:49:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/4/Figma.png" alt="" />
@@ -286,7 +304,7 @@
         <link href="https://precelerator.github.io/blog/precelerator-kickoff.html"/>
         <id>https://precelerator.github.io/blog/precelerator-kickoff.html</id>
 
-        <updated>2021-01-29T14:22:34+01:00</updated>
+        <updated>2021-04-29T13:49:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://precelerator.github.io/blog/media/posts/8/landing-page.png" alt="" />
